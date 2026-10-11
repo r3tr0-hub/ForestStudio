@@ -8,7 +8,7 @@ RGB и Alpha `*_forest.tga`, плотность, дистанции, вес ка
 и пресеты групп, импортер X-Ray, LOD, экспорт в `.part` с резервным копированием,
 очистка только созданных объектов.
 
-**В архиве `ForestStudio_v0.4.6-beta_complete.zip`:** исходники MAXScript/WPF,
+**В архиве `ForestStudio_v0.4.6-beta_COMPLETE_MIT.zip`:** исходники MAXScript/WPF,
 `Build_WPF.cmd`/`.ps1`, THM-декодер и X-Ray импортёр Dan-Stash. **DLL собирается
 на компьютере пользователя**. Игровые ассеты SDK не включены.
 
