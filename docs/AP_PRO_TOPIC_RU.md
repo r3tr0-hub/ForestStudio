@@ -24,8 +24,10 @@ Forest Studio позволяет массово расставлять дере�
 **Scripting → Run Script → `Forest_Studio_v0_4.ms`**. Указать корень SDK.
 Для THM-превью нужен Python 3. Программа не включает игровые ресурсы.
 
-**Скачать:** [GitHub Releases — вставить ссылку после публикации]  
-**Исходники:** https://github.com/r3tr0-hub/ForestStudio
+**Скачать v0.4.6 Beta:** https://github.com/r3tr0-hub/ForestStudio/releases/download/v0.4.6-beta/ForestStudio_v0.4.6-beta_COMPLETE_MIT.zip
+
+**Страница релиза:** https://github.com/r3tr0-hub/ForestStudio/releases/tag/v0.4.6-beta  
+**Исходники и документация:** https://github.com/r3tr0-hub/ForestStudio
 
 ### Статус и планы
 
