@@ -1,0 +1,6 @@
+# Preserve original MAXScript line endings/encoding of this external file
+xrTools.ObjectImport.ms -text
+# Keep prose UTF-8
+*.md text eol=lf
+*.py text eol=lf
+*.cs text eol=crlf
