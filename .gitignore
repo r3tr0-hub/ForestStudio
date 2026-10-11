@@ -1,0 +1,27 @@
+# Windows / build
+*.dll
+*.pdb
+*.exe
+*.user
+*.cache
+*.log
+.vs/
+__pycache__/
+*.pyc
+# User assets and scene state
+*.max
+*.bak
+*.part
+*.object
+*.thm
+*.dds
+*.tga
+*.png
+*.ini
+*ForestGenerator*/Thumbnails/
+# Local environment
+.env
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
