@@ -10,7 +10,7 @@
 3. Сделать первый коммит: `Initial public beta v0.4.6`.
 4. В Releases выбрать `Draft a new release`, tag `v0.4.6-beta`, title
    `Forest Studio 2.0 — v0.4.6 Beta` и добавить готовый пользовательский ZIP
-   `ForestStudio_v0.4.6-beta_complete.zip` как Release Asset.
+   `ForestStudio_v0.4.6-beta_COMPLETE_MIT.zip` как Release Asset.
 5. В описание Release вставить `docs/GITHUB_RELEASE_NOTES_RU.md`.
 6. Снять `Set as latest` для более старых релизов при необходимости и
    отметить этот выпуск как **Pre-release**. Опубликовать.
